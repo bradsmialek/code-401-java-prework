@@ -71,11 +71,11 @@ You do not need to do a lot of work every day. Spread it out evenly to do a
 bit every day before the first day of class. Do not let a day go by without
 spending your time practicing.
 
-* [Prework - Mindset](./prework-mindset.md) 
-* [Prework - Terminal](./prework-terminal.md)
-* [Prework - Frontend HTML/CSS/JS Refresher](./prework-frontend.md)
-* [Prework - IntelliJ Tutorial](./prework-intellij.md)
-* [Prework - Java Fundamentals Tutorial](./prework-java.md)
-* [Prework - Android Tutorial](./prework-android.md)
+* [Prework - Mindset](./00-prework-mindset.md) 
+* [Prework - Terminal](./01-prework-terminal.md)
+* [Prework - Frontend HTML/CSS/JS Refresher](./02-prework-frontend.md)
+* [Prework - IntelliJ Tutorial](./03-prework-intellij.md)
+* [Prework - Java Fundamentals Tutorial](./04-prework-java.md)
+* [Prework - Android Tutorial](./05-prework-android.md)
 
 
