@@ -14,3 +14,7 @@ Just follow through the sections below only **Build your first app** on this
 guide page.
 
 Good luck!
+
+## Submitting Your Work
+Take a picture of your Android application running on your emulator,
+or running on a physical phone and submit it to Canvas.
