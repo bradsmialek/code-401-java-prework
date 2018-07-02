@@ -16,20 +16,22 @@ on ryanstutorials.net, you will completely read through and complete each of
 the activities in your own terminal. As you complete each segment's
 activities, take a moment to document your learnings and observations.
 
-1. [The Command Line]()
-1. [Basic Navigation]()
-1. [More About Files]()
-1. [Manual Pages]()
-1. [File Manipulation]()
-1. [Vi Text Editor]()
-1. [Wildcards]()
-1. [Permissions]()
-1. [Filters]()
-1. [Grep and Regular Expressions]()
-1. [Piping and Redirection]()
-1. [Process Management]()
-1. [Scripting]()
-1. [Cheat Sheet]()
+<ol>
+  <li><a href="https://ryanstutorials.net/linuxtutorial/commandline.php">The Command Line</a> - What is it, how does it work and how do I get to one.</li>
+  <li><a href="https://ryanstutorials.net/linuxtutorial/navigation.php">Basic Navigation</a> - An introduction to the Linux directory system and how to get around it.</li>
+  <li><a href="https://ryanstutorials.net/linuxtutorial/aboutfiles.php">More About Files</a> - Find out some interesting characteristics of files and directories in a Linux environment.</li>
+  <li><a href="https://ryanstutorials.net/linuxtutorial/manual.php">Manual Pages</a> - Learn how to make the most of the Linux commands you are learning.</li>
+  <li><a href="https://ryanstutorials.net/linuxtutorial/filemanipulation.php">File Manipulation</a> - How to make, remove, rename, copy and move files and directories.</li>
+  <li><a href="https://ryanstutorials.net/linuxtutorial/vi.php">Vi Text Editor</a> - Discover a powerful Linux based text editor.</li>
+  <li><a href="https://ryanstutorials.net/linuxtutorial/wildcards.php">Wildcards</a> - Also referred to as globbing, this is a means to refer to several files in one go.</li>
+  <li><a href="https://ryanstutorials.net/linuxtutorial/permissions.php">Permissions</a> - Learn to identify and change the permissions of files and directories and what the consequences of these are.</li>
+  <li><a href="https://ryanstutorials.net/linuxtutorial/filters.php">Filters</a> - An introduction to various commands that allow us to mangle data in interesting and useful ways.</li>
+  <li><a href="https://ryanstutorials.net/linuxtutorial/grep.php">Grep and Regular Expressions</a> - Master a powerful pattern matching language that is useful for analysing and processing data.</li>
+  <li><a href="https://ryanstutorials.net/linuxtutorial/piping.php">Piping and Redirection</a> - Join commands together in powerful combinations.</li>
+  <li><a href="https://ryanstutorials.net/linuxtutorial/processes.php">Process Management</a> - See what is currently running on your Linux system and what state the system is in, learn how to kill programs that have hung and put jobs in the background.</li>
+  <li><a href="https://ryanstutorials.net/linuxtutorial/scripting.php">Scripting</a> - Be happy.  Get the computer to do tedious and repetitive tasks for you.</li>
+  <li><a href="https://ryanstutorials.net/linuxtutorial/cheatsheet.php">Cheat Sheet</a> - A quick reference for the main points covered in this tutorial.</li>
+</ol>
 
 To submit your work in Canvas, copy the above list and paste each of your
 meaningful observations and learnings below each section as a way to
