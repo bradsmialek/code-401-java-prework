@@ -24,7 +24,7 @@ take time though, so pace yourself over several days/weeks.
 ## Submitting Your Work
 1. Nothing is due for this portion of the prework. You are expected to know
    and understand how to use front end technologies.
-2. Many of the assignments, when we dive into Java require the usage of
+2. Many of the assignments will require the use of
    frontend technologies. You are expected to make your projects "Client Ready",
    which means it is visually appealing to anyone who is viewing your site (such
-   as a future employer). This is an important part of Web Development. 
+   as a future employer). This is an important part of web development. 

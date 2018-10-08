@@ -6,6 +6,8 @@
 **Learn Java Online** is an excellent online interactive resource to introduce
 you to Java.
 
+Work through the following sections:
+
 * Learn the Basics
 * Hello, World!
 * Variables and Types

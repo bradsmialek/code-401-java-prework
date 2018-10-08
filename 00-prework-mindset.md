@@ -23,7 +23,6 @@ We could all use mindset reminders.
 * There will be a discussion assignment on Canvas focusing on mindsets.
 * You are to post in that discussion assignment with your thoughts and
   feelings about these various media.
-* Each should be addressed, and each time one is addressed you should write
-  **at least** 2-3 sentences about your reaction.
+* You should write **at least** 2-3 sentences about each item.
 * Replies to others' comments are not mandatory but appreciated.
 * Keep it civil.

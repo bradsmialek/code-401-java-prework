@@ -8,12 +8,10 @@ learning Android development.
 
 Follow through their initial guide to build your first Android app. The guide
 gives you instructions to set up Android Studio, configure Java and the Android
-SDK, configure an emulator, write your first app and see if running.
+SDK, configure an emulator, write your first app and see it running.
 
-Just follow through the sections below only **Build your first app** on this
+Work through the 5 sections below **Build your first app** on this
 guide page.
-
-Good luck!
 
 ## Submitting Your Work
 Take a picture of your Android application running on your emulator,

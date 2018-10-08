@@ -44,7 +44,7 @@ Follow through all the directions in every section of this page.
   * Stepping through the method calls
 
 ## Submitting Your Work
-Capture screenshots of your code and it's output. Consolidate them into a
+Capture screenshots of your code and its output. Consolidate them into a
 folder and submit it into the Canvas assignment designated for the Java
 Tutorial prework.
 
