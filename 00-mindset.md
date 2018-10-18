@@ -10,7 +10,7 @@ dealing with difficulty in our lives.
 **Note**: If you've already watched/read/listened to the below before, just take
 some time and revisit them.
 
-We could all use mindset reminders. 
+We could all use mindset reminders.
 
 * Read [Upgrade Your Tech Skills with Deliberate Practice](https://www.happybearsoftware.com/upgrade-your-technical-skills-with-deliberate-practice)
 * Watch [Carol Dweck on the Growth Mindset](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve?language=en) (10 minutes)
@@ -20,7 +20,7 @@ We could all use mindset reminders.
 * Listen to [The Drs. Sarah on Impostor Syndrome - Pt 2](https://soundcloud.com/drssarahcare/self-care-with-drs-sarah-the-impostor-syndrome-part-ii) (26 minutes)
 
 ## Submitting Your Work
-* There will be a discussion assignment on Canvas focusing on mindsets.
+* There is a discussion assignment on Canvas focusing on mindsets.
 * You are to post in that discussion assignment with your thoughts and
   feelings about these various media.
 * You should write **at least** 2-3 sentences about each item.
