@@ -9,34 +9,34 @@ portal named Canvas where you can confirm that you've completed this prework
 and claim credit.
 
 Start on the pre-work as soon as you can and be sure to allow yourself plenty
-of time to complete it. The prework should take you approx 8-10 hours to
-complete. Allow yourself more time than you think you will need so that you
+of time to complete it. The prework should take you 10-12 hours to
+complete, or much more if you need an extensive refresher on frontend web dev.
+Allow yourself more time than you think you will need so that you
 can take breaks and not get overwhelmed.
 
-### Set Up
+### Set Up (2 hours)
 #### Operating Systems:
-* MacOS is the preferred operating system for the course. The instructor and
-  support staff will overwhelmingly be using MacOS.
-* Ubuntu is the preferred unix-like operating system. 
-* If you use Windows make sure you have The Windows Subsystem for Linux
-  installed. The course is not streamlined for Windows users. You may have
-  trouble initially configuring new pieces of technology and require extra
-  support from course staff.
+This course supports Mac, Ubuntu and Windows users. All users must use the standard
+setup for their system, as described in 201 & 301 prework. In particuluar, if you
+use Windows, make sure you have the Windows Subsystem for Linux installed & set up
+as described in [this guide](https://github.com/michaeltreat/Windows-Subsystem-For-Linux-Setup-Guide).
 
 #### Editors and IDEs
 We'll use a variety of text editors and IDEs to build our projects throughout
 this course. We use **Visual Studio Code** for light text editing, **IntelliJ
 IDEA** for pure-Java programs and **Android Studio** when we're building Android
-applications. Additionally you'll need to make sure **Java** itself is installed.
+applications. Additionally, you'll need to make sure **Java** itself is installed.
 
-Download and install the following:
+Download and install the following on your base OS:
 
 * [Visual Studio Code](https://code.visualstudio.com/)
 * [IntelliJ IDEA (Community Edition)](https://www.jetbrains.com/idea/)
 * [Android Studio](https://developer.android.com/studio/)
 * [Java](https://java.com/en/download/manual.jsp)
 
-	
+For WSL users, I also recommend installing Java on Ubuntu, so you can use the
+`java` and `javac` commands.
+
 #### Install Slack & Git
 We use **Slack** to communicate with each other on a daily basis. We use **Git**
 and **GitHub** for source control and collaboration.
@@ -71,11 +71,9 @@ You do not need to do a lot of work every day. Spread it out evenly to do a
 bit every day before the first day of class. Do not let a day go by without
 spending your time practicing.
 
-* [Prework - Mindset](./00-prework-mindset.md) 
-* [Prework - Terminal](./01-prework-terminal.md)
-* [Prework - Frontend HTML/CSS/JS Refresher](./02-prework-frontend.md)
-* [Prework - IntelliJ Tutorial](./03-prework-intellij.md)
-* [Prework - Java Fundamentals Tutorial](./04-prework-java.md)
-* [Prework - Android Tutorial](./05-prework-android.md)
-
-
+* [Prework - Mindset](./00-prework-mindset.md) (2 hours)
+* [Prework - Terminal](./01-prework-terminal.md) (1.5 hours)
+* [Prework - Frontend HTML/CSS/JS Refresher](./02-prework-frontend.md) (0-30 hours, depending on experience)
+* [Prework - IntelliJ Tutorial](./03-prework-intellij.md) (1 hour)
+* [Prework - Java Fundamentals Tutorial](./04-prework-java.md) (2 hours)
+* [Prework - Android Tutorial](./05-prework-android.md) (1.5 hours)
