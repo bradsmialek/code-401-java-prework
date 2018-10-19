@@ -14,30 +14,7 @@ complete, or much more if you need an extensive refresher on frontend web dev.
 Allow yourself more time than you think you will need so that you
 can take breaks and not get overwhelmed.
 
-### Set Up (2 hours)
-#### Operating Systems:
-This course supports Mac, Ubuntu and Windows users. All users must use the standard
-setup for their system, as described in 201 & 301 prework. In particuluar, if you
-use Windows, make sure you have the Windows Subsystem for Linux installed & set up
-as described in [this guide](https://github.com/michaeltreat/Windows-Subsystem-For-Linux-Setup-Guide).
-
-#### Editors and IDEs
-We'll use a variety of text editors and IDEs to build our projects throughout
-this course. We use **Visual Studio Code** for light text editing, **IntelliJ
-IDEA** for pure-Java programs and **Android Studio** when we're building Android
-applications. Additionally, you'll need to make sure **Java** itself is installed.
-
-Download and install the following on your base OS:
-
-* [Visual Studio Code](https://code.visualstudio.com/)
-* [IntelliJ IDEA (Community Edition)](https://www.jetbrains.com/idea/)
-* [Android Studio](https://developer.android.com/studio/)
-* [Java](https://java.com/en/download/manual.jsp)
-
-For WSL users, I also recommend installing Java on Ubuntu, so you can use the
-`java` and `javac` commands.
-
-#### Install Slack & Git
+### Install Slack & Git
 We use **Slack** to communicate with each other on a daily basis. We use **Git**
 and **GitHub** for source control and collaboration.
 
@@ -48,7 +25,7 @@ and **GitHub** for source control and collaboration.
 Need a refresher on git? [UDemy Git Tutorial](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
 
 ### Optional Reference Materials:
-* [Effective Java (3rd Edition)](https://www.pearson.com/us/higher-education/program/Bloch-Effective-Java-3rd-Edition/PGM1763855.html) 
+* [Effective Java (3rd Edition)](https://www.pearson.com/us/higher-education/program/Bloch-Effective-Java-3rd-Edition/PGM1763855.html)
   * **Effective Java** is an excellent reference for Java fundamentals. The author
     offers in-depth explanations about how core language features work and
     offers advice about the best ways to use them. The Third Edition goes
@@ -71,9 +48,10 @@ You do not need to do a lot of work every day. Spread it out evenly to do a
 bit every day before the first day of class. Do not let a day go by without
 spending your time practicing.
 
-* [Prework - Mindset](./00-prework-mindset.md) (2 hours)
-* [Prework - Terminal](./01-prework-terminal.md) (1.5 hours)
-* [Prework - Frontend HTML/CSS/JS Refresher](./02-prework-frontend.md) (0-30 hours, depending on experience)
-* [Prework - IntelliJ Tutorial](./03-prework-intellij.md) (1 hour)
-* [Prework - Java Fundamentals Tutorial](./04-prework-java.md) (2 hours)
-* [Prework - Android Tutorial](./05-prework-android.md) (1.5 hours)
+* [Prework - Mindset](./00-mindset.md) (2 hours)
+* [Prework - Terminal](./01-terminal.md) (1.5 hours)
+* [Prework - Frontend HTML/CSS/JS Refresher](./02-frontend.md) (0-30 hours, depending on experience)
+* [Prework - Installation and computer setup](./03-installation.md) (2-3 hours)
+* [Prework - Java Fundamentals Tutorial](./04-java.md) (2 hours)
+* [Prework - IntelliJ Tutorial](./05-intellij.md) (1 hour)
+* [Prework - Android Tutorial](./06-android.md) (1.5 hours)
