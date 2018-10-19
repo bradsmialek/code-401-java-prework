@@ -48,9 +48,10 @@ You do not need to do a lot of work every day. Spread it out evenly to do a
 bit every day before the first day of class. Do not let a day go by without
 spending your time practicing.
 
-* [Prework - Mindset](./00-prework-mindset.md) (2 hours)
-* [Prework - Terminal](./01-prework-terminal.md) (1.5 hours)
-* [Prework - Frontend HTML/CSS/JS Refresher](./02-prework-frontend.md) (0-30 hours, depending on experience)
-* [Prework - IntelliJ Tutorial](./03-prework-intellij.md) (1 hour)
-* [Prework - Java Fundamentals Tutorial](./04-prework-java.md) (2 hours)
-* [Prework - Android Tutorial](./05-prework-android.md) (1.5 hours)
+* [Prework - Mindset](./00-mindset.md) (2 hours)
+* [Prework - Terminal](./01-terminal.md) (1.5 hours)
+* [Prework - Frontend HTML/CSS/JS Refresher](./02-frontend.md) (0-30 hours, depending on experience)
+* [Prework - Installation and computer setup](./03-installation.md) (2-3 hours)
+* [Prework - Java Fundamentals Tutorial](./04-java.md) (2 hours)
+* [Prework - IntelliJ Tutorial](./05-intellij.md) (1 hour)
+* [Prework - Android Tutorial](./06-android.md) (1.5 hours)
