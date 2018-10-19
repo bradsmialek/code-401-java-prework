@@ -7,6 +7,10 @@ setup for their system, as described in 201 & 301 prework. In particuluar, if yo
 use Windows, make sure you have the Windows Subsystem for Linux installed & set up
 as described in [this guide](https://github.com/michaeltreat/Windows-Subsystem-For-Linux-Setup-Guide).
 
+### Command Line Setup
+
+**For WSL users**, please ensure that you've set up the WSL as described in the above guide. Also, please run `sudo dpkg-reconfigure tzdata` to pick your current timezone in Ubuntu.
+
 ### Editors and IDEs
 We'll use a variety of text editors and IDEs to build our projects throughout this course. We use **Visual Studio Code** for light text editing, **IntelliJ IDEA** for pure-Java programs and **Android Studio** when we're building Android applications. Additionally, you'll need to make sure **Java** itself is installed, as well as **Gradle**, a build system for Java applications.
 
