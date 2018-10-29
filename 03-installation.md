@@ -28,15 +28,17 @@ Download and install the following on your base OS:
 
 **For WSL users**, also install Java, so you can use the `java` and `javac` commands from the terminal, using `sudo apt-get install default-jdk`.
 
-**For WSL users**, you should also set up a shortcut for opening IntelliJ from the command line using these commands:
+**For WSL users**, you should also set up shortcuts for opening IntelliJ and Android Studio from the command line using these commands:
 ```bash
 # WSL USERS ONLY
 # IF YOU HAVE A MAC OR A LINUX MACHINE, DO NOT RUN THESE COMMANDS
 echo 'alias ij="/mnt/c/Program\ Files/JetBrains/IntelliJ\ IDEA\ Community\ Edition\ 2018.2.4/bin/idea64.exe ."' >> ~/.profile
+echo 'alias android="/mnt/c/Program\ Files/Android/Android\ Studio/bin/studio64.exe ."' >> ~/.profile
 source ~/.profile
+# now you can run `ij` or `android` to open each program.
 ```
 
-**For Mac and Linux users**, you should open IntelliJ and go through `Tools > Create Command-Line Launcher` in the menu to set up the ability to launch IntelliJ from the command line.
+**For Mac and Linux users**, you should open IntelliJ and Android Studio and go through `Tools > Create Command-Line Launcher` in the menu of each to set up the ability to launch them from the command line.
 
 ## Submission
 For this assignment, turn in a screenshot of your terminal, where you've run the following commands in order. (You can copy-paste this entire chunk into your terminal.) If any of the output is different from the comment at the end of the line, then something has gone wrong in your installation, and you should reach out to your instructor for help.
