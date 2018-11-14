@@ -9,10 +9,9 @@ commands involved in traversing directories and manipulating files on your
 computer.
 
 ## Submitting Your Work
-There will be an associated Canvas assignment available for you to submit
-your completed work. For each of the following segments of
+For each of the following segments of
 [Bash Command Line Tutorials](https://ryanstutorials.net/linuxtutorial/)
-on ryanstutorials.net, you will completely read through and complete each of
+on ryanstutorials.net, completely read through and complete each of
 the activities in your own terminal. As you complete each segment's
 activities, take a moment to document your learnings and observations.
 
@@ -31,5 +30,5 @@ illustrate and highlight things like 'ah hah' moments or really interesting
 code snippets.
 
 **Please note:** If you submit one-liners (i.e. "The permissions section
-talked about permissions. It was cool.")_ you will not receive credit for
-this assignment.
+talked about permissions. It was cool.") *you will not receive credit for
+this assignment*.

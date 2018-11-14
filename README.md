@@ -1,4 +1,4 @@
-# ![CF](http://i.imgur.com/7v5ASc8.png) Code 401: Advanced Software Development in Java with SpringMVC and Android
+# Code 401: Advanced Software Development in Java with SpringMVC and Android
 
 ## Pre-work
 
