@@ -31,7 +31,7 @@ Download and install the following on your base OS:
 ```bash
 # WSL USERS ONLY
 # IF YOU HAVE A MAC OR A LINUX MACHINE, DO NOT RUN THESE COMMANDS
-echo 'alias ij="/mnt/c/Program\ Files/JetBrains/IntelliJ\ IDEA\ Community\ Edition\ 2018.2.4/bin/idea64.exe ."' >> ~/.profile
+echo 'alias ij="/mnt/c/Program\ Files/JetBrains/IntelliJ\ IDEA\ Community\ Edition\ 2018.2.5/bin/idea64.exe ."' >> ~/.profile
 echo 'alias android="/mnt/c/Program\ Files/Android/Android\ Studio/bin/studio64.exe ."' >> ~/.profile
 source ~/.profile
 # now you can run `ij` or `android` to open each program.
