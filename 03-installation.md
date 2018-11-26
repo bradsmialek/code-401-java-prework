@@ -19,13 +19,15 @@ Download and install the following on your base OS:
 * [IntelliJ IDEA (Community Edition)](https://www.jetbrains.com/idea/)
 * [Android Studio](https://developer.android.com/studio/)
 * [Java](https://java.com/en/download/manual.jsp), version 8 if you get a choice
+  * WSL users: Also run these commands to install Java on Ubuntu.
+   ```bash
+   sudo apt-get update
+   sudo apt-get install default-jdk
+   ```
 * [Gradle](https://gradle.org/install/) should be automatically installed by Android Studio, but that version won't necessarily be on your PATH.
     * WSL users: install Gradle following the [manual installation instructions](https://gradle.org/install/#manually) for Windows. This will AUTOMATICALLY set Gradle up for use in your Ubuntu system as well.
     * Mac users: run `brew install gradle`.
     * Linux users: use the [manual installation instructions](https://gradle.org/install/#manually).
-
-
-**For WSL users**, also install Java on Ubuntu, so you can use the `java` and `javac` commands from the terminal, using `sudo apt-get install default-jdk`.
 
 **For WSL users**, you should also set up shortcuts for opening IntelliJ and Android Studio from the command line using these commands:
 ```bash
