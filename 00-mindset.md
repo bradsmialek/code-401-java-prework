@@ -1,4 +1,4 @@
-# Prework - Mindset
+# Prework 0: Mindset
 
 ## Tasks
 While this course is a coding course, success with the deluge of work within
