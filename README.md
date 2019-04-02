@@ -22,18 +22,13 @@ and **GitHub** for source control and collaboration.
 * Verify you have the [latest version](https://git-scm.com/downloads) of Git installed
 * Setup an account on [GitHub](http://github.com) with a recent profile picture
 
-Need a refresher on git? [UDemy Git Tutorial](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
+Need a refresher on git? [Udemy Git Tutorial](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
 
 ### Optional Reference Materials:
 * [Effective Java (3rd Edition)](https://www.pearson.com/us/higher-education/program/Bloch-Effective-Java-3rd-Edition/PGM1763855.html)
-  * **Effective Java** is an excellent reference for Java fundamentals. The author
-    offers in-depth explanations about how core language features work and
-    offers advice about the best ways to use them. The Third Edition goes
-    in-depth explaining many new modern Java features introduced in Java
-    versions 7 and 8.
+  * **Effective Java** is an excellent reference for Java fundamentals. The author offers in-depth explanations about how core language features work and offers advice about the best ways to use them. The Third Edition goes in-depth explaining many new modern Java features introduced in Java versions 7 and 8.
 * Obtain a [Seattle Public Library](https://www.spl.org/) card for free. You
-  will have access to their e-book environment as well as free access to many
-  Java and Android books.
+  will have access to their e-book environment as well as free access to many Java and Android books.
 
 ### Active Assignments
 Having a level of comfort with the basic skills and tools you’ll be using
