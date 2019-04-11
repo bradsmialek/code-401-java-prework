@@ -26,8 +26,6 @@ Download and install the following on your base OS:
     * Mac users: run `brew install gradle`.
     * Linux users: use the [manual installation instructions](https://gradle.org/install/#manually).
 
-**For Mac and Linux users**, you should open IntelliJ and Android Studio and go through `Tools > Create Command-Line Launcher` in the menu of each to set up the ability to launch them from the command line.
-
 ## Submission
 For this assignment, turn in a screenshot of your terminal, where you've run the following commands in order. (You can copy-paste this entire chunk into your terminal.) If any of the output is different from the comment at the end of the line, then something has gone wrong in your installation, and you should reach out to your instructor for help.
 
@@ -39,4 +37,5 @@ cd setup-verification
 gradle init --type java-library # should run some stuff and eventually give a success message
 ls src/main/java # should say Library.java
 ./gradlew test # should say that all tests pass
+javac -version # should say a version number
 ```
