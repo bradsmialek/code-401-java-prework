@@ -1,4 +1,4 @@
-# Prework 5: IntelliJ IDEA
+# Prework: IntelliJ IDEA
 
 **IntelliJ IDEA** is a powerful editor with many features. It's built to help create a wide variety of Java applications. This short pre-work leads us through a tutorial that will show us how to create and run simple Java programs.
 

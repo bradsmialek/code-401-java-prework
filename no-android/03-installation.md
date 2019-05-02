@@ -1,4 +1,4 @@
-# Prework 3: Computer Setup & Installation
+# Prework: Computer Setup & Installation
 
 ### Operating Systems
 This course supports Mac, Ubuntu and Windows users. All users must use the standard setup for their system, as described in the Code 201 & 301 prework. In particuluar, if you use Windows, make sure you have the Windows Subsystem for Linux installed & set up as described in [this guide](https://github.com/michaeltreat/Windows-Subsystem-For-Linux-Setup-Guide).
