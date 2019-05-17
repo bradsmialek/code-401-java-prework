@@ -34,7 +34,7 @@ Also turn in a screenshot in which you've opened IntelliJ.
 mkdir setup-verification
 cd setup-verification
 gradle init --type java-library # should run some stuff and eventually give a success message
-ls src/main/java # should say Library.java
+ls src/main/java # should say setup/ or Library.java
 ./gradlew test # should say that all tests pass
 javac -version # should say a version number
 ```
