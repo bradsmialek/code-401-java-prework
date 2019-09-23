@@ -21,6 +21,7 @@ Download and install the following on your base OS:
    sudo apt-get update
    sudo apt-get install default-jdk
    ```
+   * If you're using Linux (not WSL), some people have found [this guide](https://www.javahelps.com/2015/03/install-oracle-jdk-in-ubuntu.html) to be helpful.
 * [Gradle](https://gradle.org/install/) should be automatically installed by Android Studio, but that version won't necessarily be on your PATH.
     * WSL users: install Gradle following the [manual installation instructions](https://gradle.org/install/#manually) for Windows. This will AUTOMATICALLY set Gradle up for use in your Ubuntu system as well.
     * Mac users: run `brew install gradle`.
