@@ -21,6 +21,7 @@ Paste these lines into the terminal to fix the issue.
 ```
 sudo adduser $USER /dev/kvm;
 sudo chown $USER /dev/kvm;
+newgrp kvm;
 ```
 Then restart your machine and android studio, it should work.
 
